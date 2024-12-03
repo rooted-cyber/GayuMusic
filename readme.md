@@ -8,17 +8,9 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-###♥️Lovers♥️
-
-<!--
-
-**Unofficial-Legend/GayuRobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="center">
 
-      <b>ᴠɪsɪᴛᴏʀs</b><br>
 
- -->    <img align="middle" src="https://profile-counter.glitch.me/Unofficial-Legend/count.svg" />
 
 </p>
 
@@ -34,7 +26,7 @@
 
 <p align="center">
 
-  <img src="https://graph.org/file/25119d8fc956d3b72d36e.jpg">
+  <img src="https://files.catbox.moe/oq630k.jpg">
 
 </p>
 
@@ -167,6 +159,14 @@ sudo pkill -9 python3
 <a href="https://github.com/VICKYCHOUDHARY1"><img src="https://img.shields.io/badge/-♦️Vicky Jaat♦️-Violet?style=for-the-badge&logo=Telegram"></a>
 
 </p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h3 align="center">ᴍᴇᴇᴛ ᴏᴜʀ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs</h3>
+<p align="center" style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 8px;">
+  <a href="https://github.com/Unofficial-Legend/GayuMusic/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Unofficial-Legend/GayuMusic" alt="Contributors" style="border: 2px solid #000; border-radius: 10px;"/>
+  </a>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
